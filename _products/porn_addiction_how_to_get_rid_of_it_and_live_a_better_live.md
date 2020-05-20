@@ -20,4 +20,4 @@ Heute ist der erste Tag vom Rest DEINES Lebens
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 
-<a class="btn btn-danger btn-lg" href="https://gum.co/pornosucht?wanted=true" target="_blank">Jetzt eBook für nur 9,90 € bestellen</a>
+<a class="btn btn-danger btn-lg" href="http://gum.co/pornaddiction?wanted=true" target="_blank">Jetzt eBook für nur 9,90 € bestellen</a>
