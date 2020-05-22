@@ -1,23 +1,23 @@
 ---
-title: 'Mein eBook "Pornosucht- Wie du sie loswirst und ein besseres Leben führst"'
-subtitle: "Starte heute dein neues Leben"
-tile: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_1000/v1584347767/1584347453.png"
+title: 'Porn Addiction: How to Get Rid of Porn and Live a Better Life'
+subtitle: "This is the beginning of your new life"
+tile: "https://res.cloudinary.com/jenslaufer/image/upload/c_scale,w_1000/v1588936395/1588936361.png"
 ---
 
-Es wieder passiert, obwohl du dir vorgenommen hast es nie wieder zu tun:
+It happened, although you had promised yourself to do it never again:
 
-Statt im Homeoffice zu arbeiten hast du onaniert während du dir Pornos angesehen hast. Die Suche nach der geilsten Szene für den Absch(l)uss hat die Zeit wie im Fluge vergehen lassen. Nun ist es Stunden später; im Büro hattest du Bescheid gesagt, dass du noch etwas länger für das Problem brauchst. Schuldgefühle gepaart mit Selbstmitleid nagen an dir. Voller Frust holst du dir die Chipspackung, Schokolade und eine Flasche Bier. Jetzt ist sowieso alles egal.
+Instead of working in your home office, you masturbated while watching porn. The search for the hottest scene for your cumshot made time fly by. Now it's hours later; in the office you told me that you needed a little more time for the problem. Feelings of guilt paired with self-pity are gnawing at you. Full of frustration you get the chip package, chocolate and a bottle of beer. Nothing matters anymore anyway.
 
-So oder so ähnlich liefen vieler meiner Tage über 20 Jahre lang ab. Die unendlich Gier nach Pornos hatte meine Leben bestimmt. Am Ende war mein Gehirn umprogrammiert weg von einer realen gesunden Sexualität. Mein einziger Ausweg schien es, meinem Leben ein Ende zu setzen. Im letzten Moment habe mich entschieden meinem bisherigen Leben Ende zu setzen.
+One way or another, many of my days went by for over 20 years. My life had been dominated by an endless hunger for pornography. In the end, my brain was reprogrammed away from a real healthy sexuality. My only way out seemed to be to end my life. At the last moment I decided to put an end to my previous life.
 
-Mit vielen kleinen positiven Gewohnheiten und das Ersetzen mit besseren Routinen habe ich es geschafft. Heute bin über ein Jahr pornofrei und führe ein glücklicheres Leben
+With many small positive habits and replacing the porn habit with better routines I made it. Today I am porn-free for over a year and living a happier life
 
-Mit diesem Buch möchte ich dir meinen Weg aus der Pornosucht zeigen:
+With this book I want to show you my way out of porn:
 
-Heute ist der erste Tag vom Rest DEINES Lebens
+Today is the first day of the rest of your life
 
-![Buchcover "Pornosucht- Wie du sie besiegst und ein besseres Leben führst"](https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_1000/v1584347767/1584347453.png)
+![Buchcover "Pornosucht- Wie du sie besiegst und ein besseres Leben führst"](https://res.cloudinary.com/jenslaufer/image/upload/c_scale,w_1000/v1588936395/1588936361.png)
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 
-<a class="btn btn-danger btn-lg" href="http://gum.co/pornaddiction?wanted=true" target="_blank">Jetzt eBook für nur 9,90 € bestellen</a>
+<a class="btn btn-danger btn-lg" href="http://gum.co/pornaddiction?wanted=true" target="_blank">Order your copy for € 9,90</a>
