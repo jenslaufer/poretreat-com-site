@@ -1,0 +1,53 @@
+---
+title: "Analysis"
+author: "Jens Laufer"
+date: "8 4 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F, message = F, warning = F)
+```
+
+```{r}
+library(tidyverse)
+library(glue)
+library(bbplot)
+```
+
+
+```{r}
+data <- read_csv("../_data/ps_usage.csv") %>% 
+  mutate(`Durchschnittliche Benutzungszeit`=`Durchschnittliche Benutzungszeit`/60) %>% 
+  mutate(diff=`Durchschnittliche Benutzungszeit`/dplyr::lag(`Durchschnittliche Benutzungszeit`), diff=round((diff-1)*100,1), label="+{diff}%" %>% glue) %>% 
+  mutate(label=ifelse(label == "+NA%", "", label))
+data
+```
+
+
+
+
+```{r fig.height=10, fig.width=20}
+plt <- data %>%
+  ggplot(aes(x = Jahr, y = `Durchschnittliche Benutzungszeit`)) +
+  geom_line(size = 2.5) +
+  geom_point(size = 5) +
+  geom_text(
+    aes(label = label),
+    hjust = 0.5,
+    vjust = -0.6,
+    size = 10
+  ) +
+  scale_y_continuous(limits = c(1, 11), breaks = seq(0, 11, 1)) +
+  bbc_style() +
+  labs(title = "Pornokonum auf PornHub", subtitle = "Durchschnittliche Zeit pro Besuch in Minuten in den letzten Jahren")
+
+finalise_plot(
+  plt,
+  source_name = "Source: poretreat.de Data: PornHub Insights",
+  save_filepath = "../assets/img/porn_hub_consumption.png",
+  height_pixels = 600,
+  width_pixels = 800
+)
+```
+
